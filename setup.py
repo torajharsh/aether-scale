@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="aether-scale",
-    version="1.0.0",
+    version="1.0.1",
     author="Raj Harsh",
     author_email="",
     description="Universal Matrix Engine for Unit-Domain Flow (UDF).",
